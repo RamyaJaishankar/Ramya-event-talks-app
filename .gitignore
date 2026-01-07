@@ -1,0 +1,11 @@
+# Generated files
+index.html
+style.css
+script.js
+generate_website.js
+
+# Node.js
+node_modules/
+
+# OS-specific
+.DS_Store

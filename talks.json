@@ -1,0 +1,38 @@
+[
+    {
+        "title": "The Future of JavaScript Frameworks",
+        "speakers": ["Jane Doe"],
+        "categories": ["javascript", "frontend", "webdev"],
+        "description": "A deep dive into the trends and future of popular JavaScript frameworks like React, Vue, and Svelte."
+    },
+    {
+        "title": "Building Scalable APIs with Node.js",
+        "speakers": ["John Smith"],
+        "categories": ["nodejs", "backend", "api"],
+        "description": "Learn how to design and build RESTful APIs that can handle thousands of requests per second."
+    },
+    {
+        "title": "CSS-in-JS: The Good, the Bad, and the Ugly",
+        "speakers": ["Emily Jones", "David Miller"],
+        "categories": ["css", "frontend", "styling"],
+        "description": "A balanced discussion on the pros and cons of using CSS-in-JS libraries in your projects."
+    },
+    {
+        "title": "The Power of Serverless",
+        "speakers": ["Maria Garcia"],
+        "categories": ["serverless", "cloud", "backend"],
+        "description": "An introduction to serverless architecture and how it can help you build and deploy applications faster."
+    },
+    {
+        "title": "WebAssembly: The Next Frontier",
+        "speakers": ["Chen Wang"],
+        "categories": ["webassembly", "performance", "webdev"],
+        "description": "Explore the potential of WebAssembly and how it's changing the landscape of web development."
+    },
+    {
+        "title": "GraphQL vs. REST: A Comparative Analysis",
+        "speakers": ["Chris Wilson", "Patricia Brown"],
+        "categories": ["graphql", "rest", "api"],
+        "description": "A detailed comparison of GraphQL and REST, helping you choose the right tool for your next project."
+    }
+]
